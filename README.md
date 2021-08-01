@@ -2,6 +2,7 @@
 
 
 БД:
+
 CREATE DATABASE mydb
 
 CREATE TABLE subscripton (
